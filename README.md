@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todorw&label=Profile%20views&color=0e75b6&style=flat" alt="todorw" /> </p>
 
-- 🔭 I’m currently working on [rent-a-car](https://github.com/TodorW/tim1-cortex-frontend)
+- 🔭 I’m currently working on [ZephyrOS](https://github.com/TodorW/ZephyrOS)
 
 - 🌱 I’m currently learning **React**
 
