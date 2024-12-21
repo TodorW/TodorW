@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [KumOS](https://github.com/TodorW/KumOS)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **react, js**
+- 💬 Ask me about **react, js, laravel**
 
 - 📫 How to reach me **vuk.todorovic@protomail.com**
 
