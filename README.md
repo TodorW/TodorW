@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vuk.todorovic@protomail.com**
 
-- ⚡ Fun fact **I'm too obsessive**
+- ⚡ Fun fact **I'm a perfectionist to a fault**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
