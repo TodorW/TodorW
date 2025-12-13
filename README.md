@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [KumOS](https://github.com/TodorW/KumOS)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **react, laravel, c**
 
