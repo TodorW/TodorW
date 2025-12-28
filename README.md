@@ -5,7 +5,7 @@ Full-stack developer focused on scalable web systems and clean UI architecture
 
 
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=todorw&label=Profile%20views&color=0e75b6&style=flat"
     alt="todorw"
@@ -94,6 +94,9 @@ Full-stack developer focused on scalable web systems and clean UI architecture
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://gist.githubusercontent.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/csharp-logo.svg" width="40" height="40"/>
+  </a>
+  <a href="https://docs.flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
   </a>
 </p>
 
