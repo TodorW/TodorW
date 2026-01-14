@@ -16,7 +16,7 @@ Full-stack developer focused on scalable web systems and clean UI architecture
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[KumOS](https://github.com/TodorW/KumOS)** — a system-level project focused on performance and structure  
+- 🔭 Currently building **[KumOS](https://github.com/TodorW/KumOS)**  
 - 🌱 Expanding into **Flutter** for cross-platform development  
 - 💬 Comfortable discussing **React, Laravel, and low-level programming in C**  
 - 📫 Reach me at **vuk.todorovic@protomail.com**  
