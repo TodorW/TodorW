@@ -64,8 +64,8 @@ Full-stack developer focused on scalable web systems and clean UI architecture
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
