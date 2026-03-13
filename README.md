@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vuk Todorović</h1>
 <h3 align="center">
-Full-stack developer focused on scalable web systems and clean UI architecture
+Software engineer and full-stack developer
 </h3>
 
 
@@ -60,9 +60,6 @@ Full-stack developer focused on scalable web systems and clean UI architecture
   </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
