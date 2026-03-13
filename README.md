@@ -19,7 +19,7 @@ Software Engineer | Full-Stack Developer | Founder @ ImpulsDev
 - 🔭 Currently building **[KumOS](https://github.com/TodorW/KumOS)**  
 - 🌱 Expanding into **Flutter** for cross-platform development  
 - 💬 Comfortable discussing **React, Laravel, and low-level programming in C**  
-- 📫 Reach me at **vuk.todorovic@protomail.com**  
+- 📫 Reach me at **info@impulsdev.me**  
 - ⚡ Strength: **High attention to detail and quality-driven execution**
 
 ---
