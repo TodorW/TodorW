@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vuk Todorović</h1>
 <h3 align="center">
-Software engineer and full-stack developer
+Software engineer | Full-stack developer | Founder @ ImpulsDev
 </h3>
 
 
